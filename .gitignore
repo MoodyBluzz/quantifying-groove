@@ -1,0 +1,14 @@
+# Python tracking files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Audio data (heavy files)
+data/audio/
+*.wav
+*.mp3
+*.flac
+
+# OS files
+.DS_Store
+Thumbs.db
